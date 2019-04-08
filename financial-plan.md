@@ -7,5 +7,12 @@ We plan on promoting on social media apps because the audience who use those app
 During the second year, we will begin spending money on brand deals.
 We hope that once our business gains recognition, large brands will want to work with us to promote their products for our service.
 These brands could be restaurants, retailers, or trade companies.
-In the third year of our business operating, we will start to invest finances into reshpaing our service.
-We will take feedback from the (hopefully) many users to make our app beter for all of our users.
+In the third year of our business operating, we will start to invest finances into reshaping our service.
+We will take feedback from the many users to make our app beter for all of our users.
+
+## Viability
+
+We believe that this business plan is very much viable. With enough investment for the startup, we should be able to establish 
+a sufficient cash flow that allows us to invest profits into improving our app, as well as marketing our product. 
+Initial investments will be put towards developing the first version of the app, as well as securing servers. Anything leftover
+will be put towards marketing. 
