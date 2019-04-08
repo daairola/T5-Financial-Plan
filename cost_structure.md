@@ -2,7 +2,7 @@
 future and how to achieve it. Prior research must be conducted so as to ensure efficiency and whether the plan is 
 viable. 
 
- *Cost Structure
+ # Cost Structure
  
   A cost structure model is required to plan and to communicate the costs required to implement the strategy. This basically 
 entails a a designation of either fixed or variable, the proportional size of each category,  and high-level categorization 
